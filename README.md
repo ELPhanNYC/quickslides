@@ -1,1 +1,1 @@
-# slide-deck
+# Slide Deck
