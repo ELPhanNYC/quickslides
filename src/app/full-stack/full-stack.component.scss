@@ -1,0 +1,20 @@
+.title-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+.title {
+    font-size: 5rem;
+}
+.slide {
+    height: 90vh;
+    h1 {
+        font-size: 3rem;
+        padding-top: 2rem;
+    }
+    li {
+        font-size: 1.75rem;
+        padding: 1rem;
+    }
+}

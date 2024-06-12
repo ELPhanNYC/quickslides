@@ -1,0 +1,10 @@
+<div class = "title-slide">
+    <h1 class = "title">Full-Stack, What is it?</h1>
+</div>
+<div class = "slide" *ngFor = "let slide of slides">
+    <hr>
+    <h1>{{slide.header}}</h1>
+    <ul>
+        <li *ngFor = "let item of slide.content">{{item}}</li>
+    </ul>
+</div>

@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Ubuntu-Regular';
+    src: url('assets/font/Ubuntu/Ubuntu-Regular.ttf');
+}
+
+body {
+    font-family: 'Ubuntu-Regular';
+    margin: 5%;
+}
